@@ -197,7 +197,6 @@ nav a:link {
   display: block; */
 
   margin-right: 30px;
-  margin-top: 10px;
   display: inline-block;
 }
 
@@ -243,9 +242,9 @@ h2::before {
   top: -10px;
   right: -25px;
 }
-
-/* Resolving conflicts */
-/* #copyright {
+/* 
+Resolving conflicts
+#copyright {
   color: red;
 }
 
@@ -259,21 +258,21 @@ h2::before {
 
 footer p {
   color: green !important;
-} */
+} 
 
-/* nav a:link,
+ nav a:link,
 nav p {
   font-size: 18px;
-} */
+}
 
-/* FLOATS */
+FLOATS
 .author-img {
   float: left;
   margin-bottom: 20px;
 }
 
 .author {
-  /* padding-lef t: 80px; */
+   padding-lef t: 80px; 
   float: left;
   margin-top: 10px;
   margin-left: 20px;
@@ -309,4 +308,11 @@ aside {
 
 footer {
   clear: both;
+} */
+
+
+/* FLEXBOX */
+.main-header {
+ align-items: center ;
+  display: flex;
 }
