@@ -1,0 +1,29 @@
+* {
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+body {
+  background-color: #fff;
+}
+
+input {
+  margin-bottom: 30px;
+  margin-left: 45%;
+  color: #1098ad;
+  border: 2px solid #00ddff;
+  padding: 10px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.header-1 {
+  border: 5px solid #1098ad;
+  color: #1098ad;
+  font-style: italic;
+  padding-left: 50px;
+  background-color: #f7f7f7;
+  font-size: large;
+  margin-bottom: 50px;
+}
+
