@@ -15,6 +15,7 @@ input {
   padding: 10px;
   font-size: 15px;
   font-weight: bold;
+  cursor: pointer;
 }
 
 div p {
@@ -24,6 +25,10 @@ div p {
 
 a:link {
   color: #1098ad;
+}
+
+input:active {
+  background-color: #f7f7f7;
 }
 
 .header-1 {
