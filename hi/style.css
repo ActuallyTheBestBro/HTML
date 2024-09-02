@@ -3,3 +3,12 @@ iframe {
   height: 480px;
   
 }
+
+input {
+  color: #1098ad;
+      padding: 10px;
+      font-size: 15px;
+      font-weight: bold;
+      background-color: #f7f7f7;
+      border: 2px solid #1098ad;
+}
