@@ -204,7 +204,7 @@ nav a:link:last-child {
   margin-right: 0;
 }
 
-button {
+.btn-123 {
   font-size: 22px;
   padding: 20px;
   cursor: pointer;
@@ -371,5 +371,4 @@ aside {
   flex-basis: auto; 
   */
   flex: 0 0 300px;
-  
 }
